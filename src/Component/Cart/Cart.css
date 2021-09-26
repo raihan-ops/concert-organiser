@@ -1,0 +1,13 @@
+.cart-body{
+    background-color: #87ceeb;
+    border-radius: 6px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
+    padding: 20px;
+    width: 200px;
+}
+.cart-name-body{
+    margin-top: 5px;
+}
+.hr{
+   border: 1px solid rgba(0, 0, 0, 0.616);
+}

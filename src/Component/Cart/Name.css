@@ -1,0 +1,18 @@
+.name-body{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    box-shadow: rgba(0, 0, 0, 0.20) 0px 2px 8px;
+    margin-top: 10px;
+    border-radius: 5px;
+    
+   
+    
+}
+.name-body img{
+height: 50px;
+width: 50px;
+margin-top: auto;
+margin-bottom: auto;
+margin-left: auto;
+margin-right: auto;
+}
